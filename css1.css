@@ -1,0 +1,43 @@
+.center-box{
+    background-color: #377ddf;
+    display:flex;
+    align-items: stretch;
+    justify-content:space-between ;
+    color:white;
+    
+}
+
+.center-item1{
+    flex-grow:1;
+    color:white;
+    background-color:#377ddf;
+    display:flex;
+    justify-content:space-between;
+    align-items: center; 
+    
+}
+
+.center-item2{
+    flex-grow:3;
+    color:white;
+    background-color:#377ddf;
+    display:flex;
+    justify-content: space-around;
+    align-items:center ; 
+
+}
+
+ul li{
+    display:inline;
+    padding:35px;
+    
+}
+a{
+    text-decoration: none;
+    color:white;
+    
+}
+.center-box img{
+    width:90px;
+    height:70px;
+}

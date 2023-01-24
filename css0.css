@@ -1,0 +1,14 @@
+#d1{
+    background-color: #133d79;
+    display:flex;
+    align-items: center;
+    justify-content:center ; 
+    width:100%;
+    height:200px; 
+}
+#d1>div{
+    background-color: white;
+    color:white;
+    width:60px;
+    height:60px;
+}
